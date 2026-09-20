@@ -2,7 +2,7 @@
 
 An interactive healthcare analytics dashboard evaluating stroke risk factors across patient demographics, glucose levels, and BMI status. Built using Python, SQL Server via SQLAlchemy, and Streamlit.
 
-🔗 **Live Demo:** https://hassan-farahat-stroke-risk-analytics-app-v2vsnx.streamlit.app/
+🔗 **Live Demo:** https://hassan-farahat-stroke-risk-analytics-app-v2vsnx.streamlit.app
 
 ## 🛠️ Tech Stack & Architecture
 

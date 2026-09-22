@@ -2,7 +2,7 @@
 
 An interactive healthcare analytics dashboard evaluating stroke risk factors across patient demographics, glucose levels, and BMI status. Built using Python, SQL Server via SQLAlchemy, and Streamlit.
 
-🔗 **Live Demo:** [Stroke Risk Analytics App](https://share.streamlit.io/)
+🔗 **Live Demo:** https://hassan-farahat-stroke-risk-analytics-app-v2vsnx.streamlit.app
 
 ## 🛠️ Tech Stack & Architecture
 
@@ -21,6 +21,6 @@ An interactive healthcare analytics dashboard evaluating stroke risk factors acr
 
 ## 🚀 How to Run Locally
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone [https://github.com/Hassan-Farahat/stroke-risk-analytics.git](https://github.com/Hassan-Farahat/stroke-risk-analytics.git)

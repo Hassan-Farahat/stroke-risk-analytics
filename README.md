@@ -21,6 +21,6 @@ An interactive healthcare analytics dashboard evaluating stroke risk factors acr
 
 ## 🚀 How to Run Locally
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone [https://github.com/Hassan-Farahat/stroke-risk-analytics.git](https://github.com/Hassan-Farahat/stroke-risk-analytics.git)
